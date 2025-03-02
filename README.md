@@ -113,6 +113,8 @@ This project is licensed under the MIT License.
 For queries or support, reach out to:
 - **GitHub:** [@mrfaisal607](https://github.com/mrfaisal607)
 - **Email:** mrfaisal607@gmail.com
+- **GitHub:** [@bhaveshparmar07](https://github.com/bhaveshparmar07)
+- **Email:** parmarbhavesh2075@gmail.com
 
 ---
 💡 *Enjoy building and managing events with EventHive!*
